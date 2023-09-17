@@ -4,7 +4,7 @@ I automated the entire Microsoft rewards system. Now, anyone can grind points wi
 
 ### Pre-requisites
 
-- [Python 3.6+](!https://www.python.org/downloads/)
+- [Python 3.6+](https://www.python.org/downloads/)
 - [MsEdge](https://www.microsoft.com/en-us/edge)
 - A stable internet connection.
 
