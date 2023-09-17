@@ -50,7 +50,10 @@ Once, you have installed the requirements, you can run the script using `python 
 
 ### Note
 
-The script will automatically open the browser and grind the points. Meanwhile, make sure you don't do anything else or perform anyother actions on your PC. Just let the script do it's work.
+- The script will automatically open the browser and grind the points. Meanwhile, make sure you don't do anything else or perform anyother actions on your PC. Just let the script do it's work.
+- Also, make sure to perform the following step to seemlessly run the script for mobile grinding as well.
+  1. Open Microsoft Edge and press: `Ctrl + Shift + I`
+  2. Once the developer tools open, make sure that the device is not in mobile mode. If it is, then click on the `Toggle device toolbar` button.
 
 ### License
 
